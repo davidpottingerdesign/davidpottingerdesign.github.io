@@ -4,27 +4,27 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+  I am blogging to keep track of my electronics and computer projects and share them.
 </p>
 
-In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
+GitHub offers free hosting for pages such as these and suggested Jekyll as a static blog generator.  I was having a little trouble until I found poole (https://github.com/poole).  Thanks everyone!
 
-There are currently two themes built on Poole:
+## More about me
 
-* [Hyde](http://hyde.getpoole.com)
-* [Lanyon](http://lanyon.getpoole.com)
+My name is David Pottinger.  I've been working for a little while now and things are starting to get more exciting.
 
-Learn more and contribute on [GitHub](https://github.com/poole).
+I studied electrical engineering at San Diego State University and graduated in 2012.  I grew up and live in San Diego, California.  You may contact me at davidpottingerdesign@gmail.com.
 
-## Setup
+I follow the usual electronics material on the internet.  There are news/blog websites like Hackaday or the blog section on Adafruit.  There are many youtube channels like Dave Jones' EEVBlog.  I learned how to use KiCAD through some Contextual Electronics tutorials free on youtube.
 
-Some fun facts about the setup of this project include:
+I'm currently using Linux Mint with Cinnamon.
 
-* Built for [Jekyll](http://jekyllrb.com)
-* Developed on GitHub and hosted for free on [GitHub Pages](https://pages.github.com)
-* Coded with [Sublime Text 2](http://sublimetext.com), an amazing code editor
-* Designed and developed while listening to music like [Blood Bros Trilogy](https://soundcloud.com/maddecent/sets/blood-bros-series)
+## More about projects
 
-Have questions or suggestions? Feel free to [open an issue on GitHub](https://github.com/poole/issues/new) or [ask me on Twitter](https://twitter.com/mdo).
+There are some day jobs I won't want to write about.  Some of the day job is like marketing though and people will like seeing it on the blog.  In particular, I've been working with a Microchp design partner for a few years and I'm happy to relate my experiences with their products.
+
+At work there more Windows tools but at home I have many Linux options available.  Not all software I use is open source unfortunately.  Most of my private projects use free software.  My projects tend to use hardware, but the cost of these things has been going down recently.
+
+Hopefully this blog will be one of the successes!
 
 Thanks for reading!
