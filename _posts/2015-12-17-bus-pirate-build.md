@@ -5,9 +5,7 @@ title: Bus Pirate v3.8 Build
 
 So I won a raffle at dangerousprototypes.com.  This lead me building one of these:
 
-![My Bus Pirate build (side)]({{ site.url }}/public/buspirate_side.jpg)
-
-![My Bus Pirate build (top)]({{ site.url }}/public/buspirate_top.jpg)
+![My Bus Pirate build (side)]({{ site.url }}/public/buspirate.png)
 
 I think it turned out pretty good.
 
