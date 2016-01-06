@@ -9,4 +9,4 @@ I'll try this Cognito forms service first I suppose.  There seem to be at least 
 
 I guess next I should think about some kind of post index?  Maybe I should be adding tags all along for people to sort these posts.
 
-But if you have suggestions for how I should do things, now you can go to davidpottingerdesign.github.io/contact and tell me!
+But if you have suggestions for how I should do things, now you can go to [this contact page](davidpottingerdesign.github.io/contact) and tell me!

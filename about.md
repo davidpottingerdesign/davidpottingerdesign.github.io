@@ -9,7 +9,7 @@ I've been working with a Microchp design partner for a few years and I'm happy t
 
 For my private projects, I've been using services such as OSHPark or DirtyPCBs.  I buy components from distributors like Mouser.
 
-GitHub offers free hosting for pages such as these and suggested Jekyll as a static blog generator.  I was having a little trouble until I found poole (https://github.com/poole).  Thanks everyone!
+GitHub offers free hosting for pages such as these and suggested Jekyll as a static blog generator.  I was having a little trouble until I found [poole](https://github.com/poole) and forked it.  Thanks everyone!
 
 ## More about me
 
