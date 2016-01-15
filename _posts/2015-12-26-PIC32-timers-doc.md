@@ -19,8 +19,9 @@ I like Harmony for some things, particularly keeping track of what pins the peri
 
 The internal FRC is 8MHz and I can use PLLs and dividers to change that.  There's another divider for all peripheral clocks.  The timer hardware comes with nice period registers to avoid resetting the timer register every expiry.  The math works like this:
 
-<div class="message">
-interrupt flag period (seconds?) = PRx register * divider / peripheral frequency (Hz?)
-</div>
+{% highlight bash %}
+interrupt flag period (seconds?) = 
+    PRx register * divider / peripheral frequency (Hz?)
+{% endhighlight %}
 
 To use a polled interrupt, I had to enable the interrupt source for the timer, too.  The flag for it was in the IFS0 register.  Interrupts were set up nicely through Harmony though.
