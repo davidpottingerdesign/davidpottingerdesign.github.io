@@ -11,7 +11,7 @@ For the software on the computer side, if it's a Windows machine I tend to use p
 
 It works through my usual shell, some GNOME Terminal on Cinnamon.
 
-I can type "screen ttyUSB0 19200" and it changes the terminal to their input.  I've read in a couple places that it could open in a separate window.  For now this works.  The control mechanism is either "ctrl + a" followed by characters or an escape key.  A couple important commands are detach "d" and help "?".
+I can type "screen /dev/ttyUSB0 115200" (for the Bus Pirate) and it changes the terminal to their input.  I've read in a couple places that it could open in a separate window.  For now this works.  The control mechanism is either "ctrl + a" followed by characters or an escape key.  A couple important commands are detach "d" and help "?".
 
 I also have a .screenrc file set up mostly to help with automatic data logging operations.
 
