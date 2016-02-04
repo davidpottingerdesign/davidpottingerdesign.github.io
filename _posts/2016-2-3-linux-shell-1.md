@@ -3,7 +3,7 @@ layout: post
 title: Linux Shell Scripting 1
 ---
 
-###Some things about living on a Linux laptop
+### Some things about living on a Linux laptop
 
 Since the screen post, I've renged and put putty on this machine.  It has a Linux version and I'm familiar with its GUI.  Plus it looks presentable, IMHO.
 
