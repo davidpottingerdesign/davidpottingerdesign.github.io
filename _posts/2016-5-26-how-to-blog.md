@@ -21,6 +21,12 @@ Images are like:
 
 Or use a URL for something already hosted on the internet.
 
+Probably more of it could be found here:
+
+https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
+
+(urls are linked automatically)
+
 ### Look at it
 I made a script for this already back in Linux Shell Scripting 1.  And in that post more than three months ago, I said I should make this post.
 
