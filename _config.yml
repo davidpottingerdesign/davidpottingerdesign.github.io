@@ -5,8 +5,8 @@ permalink:           pretty
 
 # Setup
 title:               David Pottinger Design
-tagline:             'an electronics blog'
-description:         'These are the brief moments I can scribble about what I am trying to make.'
+tagline:             'a journal blog'
+description:         'An attempt to scribble about my life regularly.'
 url:                 http://davidpottingerdesign.github.io
 baseurl:             'http://davidpottingerdesign.github.io'
 paginate:            5
