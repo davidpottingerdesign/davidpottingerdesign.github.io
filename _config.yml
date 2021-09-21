@@ -17,3 +17,5 @@ author:
   email:             davidpottingerdesign@gmail.com
   
   timezone:         America/Los_Angeles
+
+theme: jekyll-theme-cayman
